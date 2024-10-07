@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  kubenine-helm-chart:
+    - apiVersion: v2
+      name: kubenine-helm-chart
+      version: 0.1.0
+      description: A Helm chart for deploying KubeNine applications
+      home: https://github.com/kubenine/kubenine-helm-repository
+      sources:
+        - https://github.com/kubenine/kubenine-helm-repository
+      urls:
+        - https://kubenine.github.io/kubenine-helm-repository/charts/kubenine-helm-chart-0.1.0.tgz
+      digest: 2c00fd96468efe9550ed06d76196f905cd0a903a453da3d87df335e212e3d146
+      created: "2024-10-7T5:34:56Z"
+generated: "2024-10-7T5:34:56Z"
